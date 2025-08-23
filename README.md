@@ -83,7 +83,8 @@ Target_Sales_MySQL_Project/
 │   └── optimization_indexing.sql
 ├── README.md
 ```
-
+ADVANCED EXCEL: https://docs.google.com/spreadsheets/d/172V6xnbmY6rFwqVQTq8VFhCMyz-39K-k/edit?usp=drive_link&ouid=106056561367821644436&rtpof=true&sd=true
+(VLOOKUP,HLOOKUP, INDEX-MATCH,DATA VALIDATION, FONDITIONAL FORMATTING, PIVOT TABLES)
 ---
 
 ## 🚀 Next Steps
